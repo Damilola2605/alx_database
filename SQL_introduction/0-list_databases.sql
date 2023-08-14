@@ -1,2 +1,2 @@
---This script is about my server database
-SHOW DATABASE; 
+-- This script is about my server database
+SHOW DATABASES; 

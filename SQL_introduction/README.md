@@ -1,0 +1,1 @@
+This project is on Structured Query Language (SQL). It include marjorly the intrductuin to SQL.

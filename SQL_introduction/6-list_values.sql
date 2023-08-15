@@ -1,2 +1,2 @@
 -- Printing the list of a row and it field
-SELECT * FROM hbtn_0c_0.first_table;
+SHOW SELECT * FROM hbtn_0c_0.first_table;

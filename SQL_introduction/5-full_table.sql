@@ -1,2 +1,2 @@
 -- Printing the full description of full table.
-SHOW CREATE TABLE hbtn_0c_0.first_table;
+mysql -u your_username -p -e "USE hbtn_0c_0; SHOW COLUMNS FROM first_table;"

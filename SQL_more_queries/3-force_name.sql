@@ -1,5 +1,5 @@
--- Creating a table in my Mysql serverrrrrrrr
+-- Creating a table in my Mysql server
 CREATE TABLE IF NOT EXISTS force_name (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    name VARCHAR(256) NOT NULL;
+    id INT PRIMARY KEY,
+    name VARCHAR(256) NOT NULL,
 );
